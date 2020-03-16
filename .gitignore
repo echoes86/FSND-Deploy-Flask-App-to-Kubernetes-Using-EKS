@@ -26,3 +26,11 @@ htmlcov/
 # Direnv
 .envrc
 .direnv
+venv
+venv/*
+
+# Custom Files
+env_file
+examples/cli_tests
+examples/env_setter.sh
+
